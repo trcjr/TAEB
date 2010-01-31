@@ -47,3 +47,26 @@ q
 Q
     Makes TAEB quit the current game, immediately.
 
+d
+    Change the current color_method used to render the map
+
+i
+    Show TAEB's inventory.
+
+^P
+    Show old messages.
+
+^X
+    Show TAEB's senses.
+
+e
+    Show TAEB's equipment.
+
+I
+    Show item spoiler data.
+
+M
+    Show monster spoiler data.
+
+t
+    Select a type tile to show known instances of.
